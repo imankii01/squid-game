@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://squid-game-challenge.netlify.app/sitemap.xml
